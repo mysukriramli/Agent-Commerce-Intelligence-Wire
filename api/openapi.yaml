@@ -1,0 +1,27 @@
+openapi: 3.0.0
+
+info:
+  title: Agent Commerce Intelligence Wire
+  version: 1.0.0
+
+paths:
+
+  /product/{id}:
+    get:
+      summary: Get canonical product
+
+  /price/{id}:
+    get:
+      summary: Get market pricing
+
+  /merchant/{id}:
+    get:
+      summary: Get merchant trust
+
+  /recall/{id}:
+    get:
+      summary: Get recall data
+
+  /inventory/{category}:
+    get:
+      summary: Get inventory signals
