@@ -1,0 +1,16 @@
+{
+  "canonical_id": "apple_airpods_pro_2",
+
+  "name": "Apple AirPods Pro 2",
+
+  "brand": "Apple",
+
+  "category": "audio",
+
+  "identifiers": {
+    "gtin": "123456789",
+    "upc": "123456789",
+    "ean": "123456789",
+    "manufacturer_sku": "MQD83AM/A"
+  }
+}
