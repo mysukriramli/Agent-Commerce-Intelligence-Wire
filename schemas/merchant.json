@@ -1,0 +1,13 @@
+{
+  "merchant_id": "",
+
+  "trust_score": 0,
+
+  "signals": {
+    "account_age": 0,
+    "complaints": 0,
+    "recalls": 0
+  },
+
+  "last_updated": ""
+}
